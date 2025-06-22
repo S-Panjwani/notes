@@ -77,9 +77,7 @@ export default defineConfig({
             text: "Math 20",
             collapsed: true,
             items: [
-              {
-                
-              },
+
             ],
           },
         ],

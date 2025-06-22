@@ -1,7 +1,8 @@
 dist/
 result/
 .vitepress/cache/
-
+docs
+.vscode
 node_modules/
 
 npm-debug.log*

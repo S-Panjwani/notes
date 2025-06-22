@@ -78,8 +78,7 @@ export default defineConfig({
             collapsed: true,
             items: [
               {
-                text: "placeholder",
-                link: "/notes/math20/trig",
+                
               },
             ],
           },

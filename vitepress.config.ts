@@ -21,7 +21,7 @@ export default defineConfig({
     outline: "deep",
 
     footer: {
-      message: "Released under the GPL 4.0 License",
+      message: "Released under the GPL 4.0 License by polandlover123 and s-panjwani",
       copyright: "Logo is created by moof",
     },
 
